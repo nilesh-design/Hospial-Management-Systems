@@ -26,8 +26,8 @@ This project helps manage hospital operations like patient records, doctor detai
 
 ## 📂 Project Structure
 
-HospitalManagementSystem/
-│
+HospitalManagementSystem/ <br>
+│ <br>
 ├── src/ <br>
 │ └── hospital.management.system/ <br>
 │ ├── All_Patient_Info.java # View all patient records <br>
