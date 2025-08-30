@@ -28,23 +28,23 @@ This project helps manage hospital operations like patient records, doctor detai
 
 HospitalManagementSystem/
 │
-├── src/
-│ └── hospital.management.system/
-│ ├── All_Patient_Info.java # View all patient records
-│ ├── Connections.java # Database connection handler
-│ ├── Department.java # Department management
-│ ├── Employee_Info.java # Employee/Staff details
-│ ├── Login.java # Login screen
-│ ├── New_Patient.java # Add new patient
-│ ├── Patient_Discharge.java # Handle patient discharge process
-│ ├── Reception.java # Reception module (main navigation)
-│ ├── Room.java # Room management
-│ ├── Search_Room.java # Search available rooms
-│ ├── Update_Patient_Detail.java # Update existing patient records
-│
-├── icons/ # UI icons/images
-│
-├── .classpath
-├── .project
-├── .gitignore
-└── README.md
+├── src/ <br>
+│ └── hospital.management.system/ <br>
+│ ├── All_Patient_Info.java # View all patient records <br>
+│ ├── Connections.java # Database connection handler <br>
+│ ├── Department.java # Department management <br>
+│ ├── Employee_Info.java # Employee/Staff details <br>
+│ ├── Login.java # Login screen <br>
+│ ├── New_Patient.java # Add new patient <br>
+│ ├── Patient_Discharge.java # Handle patient discharge process <br>
+│ ├── Reception.java # Reception module (main navigation) <br>
+│ ├── Room.java # Room management <br>
+│ ├── Search_Room.java # Search available rooms <br>
+│ ├── Update_Patient_Detail.java # Update existing patient records <br>
+│ <br>
+├── icons/ # UI icons/images <br>
+│ <br>
+├── .classpath <br>
+├── .project <br>
+├── .gitignore <br>
+└── README.md <br>
